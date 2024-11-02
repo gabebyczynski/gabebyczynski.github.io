@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Brief Myofascial Intervention Modulates Visual Event-Related Potential Response to Emotional Photographic Contents: A Pilot Study"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/Byczynski_and_DAngiulli_2023
+excerpt: 'We conclude that brief myofascial intervention supports other research in the field, finding that physical touch and massage techniques can alter cognition and perception.'
+date: 2023-12-13
+venue: 'Vision'
+paperurl: 'http://gabebyczynski.github.io/files/Byczynski_and_DAngiulli_2023.pdf'
+citation: 'Byczynski, G., DAngiulli, A (2023). &quot;Brief Myofascial Intervention Modulates Visual Event-Related Potential Response to Emotional Photographic Contents: A Pilot Study.&quot; <i>Vision</i>. 7(4).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We conclude that brief myofascial intervention supports other research in the field, finding that physical touch and massage techniques can alter cognition and perception. We posit further research to investigate its future use as an intervention for both physical and cognitive modulation. Importantly, we provide preliminary evidence that the neural processes that resonate with this type of massage involve complex feedforward and backward cortical pathways, of which a significant portion participate in modulating the visual perception of external stimuli.
