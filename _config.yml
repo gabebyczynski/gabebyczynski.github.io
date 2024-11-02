@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Gabriel Byczynski"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Neuroscientist studying motor modulation, stroke recovery, and brain imaging"
   location         : "Geneva, CH"
   employer         : "University of Geneva"
   uri              : # URL
