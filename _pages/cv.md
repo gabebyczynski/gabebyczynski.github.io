@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Psychology, Trinity College Dublin, University of Dublin (IE), 2024
+* M.Sc. (Distinction) Brain Imaging and Cognitive Neuroscience, University of Birmingham (UK), 2022
+* B.Sc. (Distinction) Neuroscience and Biology Combined Honours, Carleton University, (CAN), 2021
 
 Work experience
 ======
@@ -34,12 +34,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Electroencephalography, Magnetoencephalography, (Functional) Magnetic Resonance Imaging
+* Behaviour and Physiological Recording (GSR, Pupillometry, HRV)
+* Machine learning prediction for clinical outcomes
 
 Publications
 ======
