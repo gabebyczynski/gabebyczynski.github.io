@@ -21,7 +21,7 @@ repository               : "gabebyczynski/gabebyczynski.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_photo.jpg"
   name             : "Gabriel Byczynski"
   pronouns         : "he/him"  
   bio              : "Neuroscientist studying motor function and stroke"
