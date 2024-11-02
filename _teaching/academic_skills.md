@@ -1,6 +1,6 @@
 ---
 title: "Primary Academic Skills"
-collection: Teaching
+collection: teaching
 type: "Seminars"
 venue: "Trinity College Dublin, Psychology"
 date: 2023
