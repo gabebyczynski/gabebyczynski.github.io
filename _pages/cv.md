@@ -14,23 +14,6 @@ Education
 * Ph.D in Psychology, Trinity College Dublin, University of Dublin (IE), 2024
 * M.Sc. (Distinction) Brain Imaging and Cognitive Neuroscience, University of Birmingham (UK), 2022
 * B.Sc. (Distinction) Neuroscience and Biology Combined Honours, Carleton University, (CAN), 2021
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
