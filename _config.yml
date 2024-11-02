@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Gabriel Byczynski, Msc BSc"
+title                    : "Gabriel Byczynski, MSc BSc"
 title_separator          : "-"
 name                     : &name "Gabriel Byczynski"
 description              : &description "personal description"
