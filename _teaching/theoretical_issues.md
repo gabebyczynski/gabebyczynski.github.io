@@ -3,7 +3,7 @@ title: "Advanced Psychology and Theoretical Issues"
 collection: teaching
 type: "Seminars"
 venue: "Trinity College Dublin, Psychology"
-date: 2022-2024
+date: 2023-01-01
 location: "Dublin, Ireland"
 ---
 
