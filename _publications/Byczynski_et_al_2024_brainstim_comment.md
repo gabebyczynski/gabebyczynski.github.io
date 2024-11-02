@@ -1,7 +1,7 @@
 ---
 title: "Comment on: Frontal HD-tACS enhances behavioral and EEG biomarkers of vigilance in continuous attention task"
 collection: publications
-category: commentaries
+category: commentary
 permalink: /publication/Byczynski_et_al_2024_brainstim_comment
 excerpt: 'We caution that in absence of a sham or placebo-controlling groups or more direct mechanistic approaches, it is difficult to conclude that peripheral mechanisms are not at play based strictly on non-specific arousal.'
 date: 2024-10-15
