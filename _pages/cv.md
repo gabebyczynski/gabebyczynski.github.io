@@ -41,4 +41,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Postgraduate (PG) research representative, 2023-2024
+* PG representative, Psychology Research Committee, 2023-2024
+* PG representative, Psychology Teaching Committee, 2023-2024
+* Member, Equity, Diversity and Inclusion (EDI) Committee and Student Recruitment Subcommittee, 2022-2024
+* Member, Neuroscience Ireland, 2022-2024
