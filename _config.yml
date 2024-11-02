@@ -12,7 +12,7 @@ title                    : "Gabriel Byczynski, MSc BSc"
 title_separator          : "-"
 name                     : &name "Gabriel Byczynski"
 description              : &description "PhD candidate and cognitive neuroscientist"
-url                      : "www.gabrielbyczynski.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.gabrielbyczynski.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gabebyczynski/gabebyczynski.github.io"
 
