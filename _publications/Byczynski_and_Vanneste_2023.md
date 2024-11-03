@@ -3,9 +3,9 @@ title: "Modulating motor learning with brain stimulation: Stage-specific perspec
 collection: publications
 category: manuscripts
 permalink: /publication/Byczynski_and_Vanneste_2023
-excerpt: 'We discuss the use of transcranial direct current stimulation, transcranial alternating current stimulation, and peripheral nerve stimulation to modulate motor learning..'
+excerpt: 'We discuss the use of transcranial direct current stimulation, transcranial alternating current stimulation, and peripheral nerve stimulation to modulate motor learning.'
 date: 2023-04-14
-venue: 'Symmetry'
+venue: 'Progress in Neuro-Psychopharmacology and Biological Psychiatry'
 paperurl: 'http://gabebyczynski.github.io/files/Byczynski_and_Vanneste_2023.pdf'
 citation: 'Byczynski, G., Vanneste, S (2023). &quot;Modulating motor learning with brain stimulation: Stage-specific perspectives for transcranial and transcutaneous delivery.&quot; <i>Progress in Neuro-Psychopharmacology and Biological Psychiatry</i>. 125, 110766.'
 ---
