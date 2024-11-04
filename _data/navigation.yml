@@ -19,6 +19,9 @@ main:
 
   - title: "News"
     url: /portfolio/
+
+  - title: "Current Projects"
+    url: /projects/
     
  # - title: "Guide"
  #   url: /markdown/
