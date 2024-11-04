@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/pbhm_talk1
 venue: "Predictive Brain Health Modelling Group, Trinity College Dublin"
-date: 2012-03-01
+date: 2024-04-03
 location: "Dublin, Ireland"
 ---
 
