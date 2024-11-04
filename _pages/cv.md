@@ -20,6 +20,7 @@ Skills
 * Electroencephalography, Magnetoencephalography, (Functional) Magnetic Resonance Imaging
 * Behaviour and Physiological Recording (GSR, Pupillometry, HRV)
 * Machine learning prediction for clinical outcomes
+* Peripheral nerve stimulation, tES, TMS
 
 Publications
 ======
@@ -46,3 +47,4 @@ Service and leadership
 * PG representative, Psychology Teaching Committee, 2023-2024
 * Member, Equity, Diversity and Inclusion (EDI) Committee and Student Recruitment Subcommittee, 2022-2024
 * Member, Neuroscience Ireland, 2022-2024
+* Member, Music and Health Research Institute, Ottawa, Canada, 2021-2023
