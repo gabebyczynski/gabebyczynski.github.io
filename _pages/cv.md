@@ -39,8 +39,12 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Contributions to the field
+======
+* Reviewer for clinical and cognitive neuroscience journals inculding: Frontiers in Human Neuroscience
   
-Service and leadership
+Committee roles and representation
 ======
 * Postgraduate (PG) research representative, 2023-2024
 * PG representative, Psychology Research Committee, 2023-2024
