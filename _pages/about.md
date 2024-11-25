@@ -11,7 +11,7 @@ My research
 ======
 I am a PhD candidate at Trinity College Dublin researching the effect of occipital nerve stimulation on motor task learning, attention, and perceptual learning. My work uses a combination of behavioural, brain imaging, and modelling approaches to understand the effect of stimulation on neural processes and its resulting influence on behaviour. I am particuarly interested in understanding mechanisms behind modulation, and my goal is to develop clinical implementation and personalization. 
 
-I am completing my post-doctoral fellowship at the University of Geneva, combining my interests in motor learning and stroke recovery with iamging techniques including MRI and MRS, and pharmacological interventions for stroke recovery using Maraviroc. https://data.snf.ch/grants/grant/215285
+I am completing my post-doctoral fellowship at the University of Geneva, combining my interests in motor learning and stroke recovery with imaging techniques including MRI and MRS, and pharmacological interventions for stroke recovery using Maraviroc. Read more about it [here]([https://data.snf.ch/grants/grant/215285])
 
 
 Other interests
