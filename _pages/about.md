@@ -13,7 +13,7 @@ I am a PhD candidate at Trinity College Dublin researching the effect of occipit
 
 I am completing my post-doctoral fellowship at the University of Geneva, combining my interests in motor learning and stroke recovery with imaging techniques including MRI and MRS, and pharmacological interventions for stroke recovery using Maraviroc. 
 
-Read more about it [here]([https://data.snf.ch/grants/grant/215285])
+Read more about it [here](https://data.snf.ch/grants/grant/215285)
 
 
 Other interests
