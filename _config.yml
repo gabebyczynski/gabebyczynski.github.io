@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Gabriel Byczynski, MSc BSc"
+title                    : "Gabriel Byczynski, PhD"
 title_separator          : "-"
 name                     : &name "Gabriel Byczynski"
-description              : &description "PhD candidate and cognitive neuroscientist"
+description              : &description "Postdoctoral research fellow"
 url                      : "https://www.gabrielbyczynski.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gabebyczynski/gabebyczynski.github.io"
@@ -22,7 +22,7 @@ repository               : "gabebyczynski/gabebyczynski.github.io"
 author:
   # Biographic information
   avatar           : "profile_photo.jpg"
-  name             : "Gabriel Byczynski"
+  name             : "Dr. Gabriel Byczynski"
   pronouns         : "He/Him"  
   bio              : "Neuroscientist studying motor function and stroke"
   location         : "Geneva, CH"
