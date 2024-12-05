@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Experience
+======
+* Postdoctoral Research Fellow, University of Geneva/University Hospitals of Geneva (CH), 2025-2027
+  
 Education
 ======
 * Ph.D in Psychology, Trinity College Dublin, University of Dublin (IE), 2024
