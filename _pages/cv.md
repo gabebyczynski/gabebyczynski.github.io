@@ -15,9 +15,9 @@ Experience
   
 Education
 ======
-* Ph.D in Psychology, Trinity College Dublin, University of Dublin (IE), 2024
-* M.Sc. (Distinction) Brain Imaging and Cognitive Neuroscience, University of Birmingham (UK), 2022
-* B.Sc. (Distinction) Neuroscience and Biology Combined Honours, Carleton University, (CAN), 2021
+* PhD in Psychology, Trinity College Dublin, University of Dublin (IE), 2022-2024
+* MSc (Distinction) Brain Imaging and Cognitive Neuroscience, University of Birmingham (UK), 2021-2022
+* BSc/BSc (Distinction) Neuroscience and Biology Combined Honours, Carleton University, (CAN), 2017-2021
   
 Skills
 ======
