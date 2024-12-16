@@ -12,6 +12,8 @@ redirect_from:
 Experience
 ======
 * Postdoctoral Research Fellow, University of Geneva/University Hospitals of Geneva (CH), 2025-2027
+  - MRI/MRS approaches to understanding post-stroke recovery and its connnectivity correlates
+  - The effect of Maraviroc as a manipulator of the peri-infarct and plasticity
   
 Education
 ======
