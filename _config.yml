@@ -22,13 +22,13 @@ repository               : "gabebyczynski/gabebyczynski.github.io"
 author:
   # Biographic information
   avatar           : "profile_photo.jpg"
-  name             : "Dr. Gabriel Byczynski"
+  name             : "Gabriel Byczynski, PhD"
   pronouns         : "He/Him"  
   bio              : "Neuroscientist studying motor function and stroke"
   location         : "Geneva, CH"
   employer         : "University of Geneva"
   uri              : # URL
-  email            : "byczynsg@tcd.ie" 
+  email            : "gabriel.byczinski@unige.ch" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
