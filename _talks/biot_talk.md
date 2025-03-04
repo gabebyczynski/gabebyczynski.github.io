@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/biot_talk
 venue: "Campus Biotech"
-date: 2025-20-02
+date: 2025-02-20
 location: "Geneva, Switzerland"
 ---
 
