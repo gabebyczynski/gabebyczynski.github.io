@@ -10,7 +10,7 @@ redirect_from:
 My research
 ======
 
-I am a postdoctoral fellow at the University of Geneva and University Hospitals of Geneva, combining my interests in motor learning and stroke recovery with imaging techniques including MRI and MRS, and pharmacological interventions for stroke recovery using Maraviroc. 
+I am a postdoctoral fellow at the University of Geneva and University Hospitals of Geneva, combining my interests in motor learning and stroke recovery with imaging techniques including fMRI, DSI, MRS, and pharmacological interventions for stroke recovery using Maraviroc. 
 
 My work uses a combination of behavioural, brain imaging, and modelling approaches to understand the effect of stimulation on neural processes and its resulting influence on behaviour. I am particuarly interested in understanding mechanisms behind modulation, and my goal is to develop clinical implementation and personalization. 
 
@@ -23,4 +23,4 @@ I have interests outside of motor recovery and brain imaging, which includes the
 
 My main focus in these areas is the influence of both internal and external attentional control in audiovisual, subliminal, and social exposures. 
 
-I actively collaborate with universities and groups in Ireland, Canada, England, and Belgium. 
+I actively collaborate with universities and groups in Ireland, Canada, England, Australia, and Belgium. 
