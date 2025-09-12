@@ -24,7 +24,7 @@ Education
 Skills
 ======
 * Electroencephalography, Magnetoencephalography
-* functional (fMRI), structural (DWI, DSI/DTI), and magnetic resonance (whole-brain MRS) imaging
+* functional (fMRI), structural (DWI, DSI/DTI), and spectroscopic (whole-brain MRS) magnetic resonance imaging
 * Behaviour and Physiological Recording (GSR, Pupillometry, HRV)
 * Machine learning prediction for clinical outcomes (Tinnitus, stroke)
 * Peripheral nerve stimulation, tES, TMS
