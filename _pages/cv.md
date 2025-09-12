@@ -23,14 +23,16 @@ Education
   
 Skills
 ======
-* Electroencephalography, Magnetoencephalography, (Functional) Magnetic Resonance Imaging
+* Electroencephalography, Magnetoencephalography
+* functional (fMRI), structural (DWI, DSI/DTI), and magnetic resonance (whole-brain MRS) imaging
 * Behaviour and Physiological Recording (GSR, Pupillometry, HRV)
-* Machine learning prediction for clinical outcomes
+* Machine learning prediction for clinical outcomes (Tinnitus, stroke)
 * Peripheral nerve stimulation, tES, TMS
 
 Contributions to the field
 ======
-* Reviewer for clinical and cognitive neuroscience journals inculding: Frontiers in Human Neuroscience
+* Ad hoc reviewer for clinical and cognitive neuroscience journals inculding: Frontiers in Human Neuroscience, Frontiers in Psychology, npj Science of Learning, Scientific Reports, Imagination Cognition and Personlity, Brain and Behaviour, Journal of Neuroengineering and Rehabilitation, Frontiers in Network Physiology.
+* Topic Coordinator for AI-Driven Models Transforming Perceptual Science: Self-Organizing Intelligence for Sensory Cognition in Frontiers in Neuroscience, Frontiers in Psychology.
   
 Committee roles and representation
 ======
@@ -40,6 +42,13 @@ Committee roles and representation
 * Member, Equity, Diversity and Inclusion (EDI) Committee and Student Recruitment Subcommittee, 2022-2024
 * Member, Neuroscience Ireland, 2022-2024
 * Member, Music and Health Research Institute, Ottawa, Canada, 2021-2023
+* Representative, Canadian Undergraduate Conference on Healthcare, Ottawa/Kingston, Canada, 2018-2020
+
+Supervision
+======
+* 4 undegraduate (BSc) final year students (Thesis stream)
+* 2 postgraduate (MSc) final year students (Thesis stream)
+* 1 postgrdauate (MD) final year student (Thesis stream)
 
 Publications
 ======
