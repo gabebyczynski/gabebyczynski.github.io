@@ -31,7 +31,7 @@ Skills
 
 Contributions to the field
 ======
-* Ad hoc reviewer for clinical and cognitive neuroscience journals inculding: Frontiers in Human Neuroscience, Frontiers in Psychology, npj Science of Learning, Scientific Reports, Imagination Cognition and Personlity, Brain and Behaviour, Journal of Neuroengineering and Rehabilitation, Frontiers in Network Physiology.
+* Ad hoc reviewer for clinical and cognitive neuroscience journals inculding: Frontiers in Human Neuroscience, Frontiers in Psychology, npj Science of Learning, Scientific Reports, Imagination Cognition and Personlity, Brain and Behaviour, Journal of Neuroengineering and Rehabilitation, Frontiers in Network Physiology, Brain Sciences, and Children (Pediatric Neurology and Developmental Disorder Section).
 * Topic Coordinator for AI-Driven Models Transforming Perceptual Science: Self-Organizing Intelligence for Sensory Cognition in Frontiers in Neuroscience, Frontiers in Psychology.
   
 Committee roles and representation
@@ -48,7 +48,7 @@ Supervision
 ======
 * 4 undegraduate (BSc) final year students (Thesis stream)
 * 2 postgraduate (MSc) final year students (Thesis stream)
-* 1 postgrdauate (MD) final year student (Thesis stream)
+* 1 postgrdauate (MD) student (Thesis stream)
 
 Publications
 ======
