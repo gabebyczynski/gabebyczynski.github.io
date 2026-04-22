@@ -47,8 +47,7 @@ Committee roles and representation
 Supervision
 ======
 * 4 undegraduate (BSc) final year students (Thesis stream)
-* 2 postgraduate (MSc) final year students (Thesis stream)
-* 1 postgrdauate (MD) student (Thesis stream)
+* 3 postgraduate (MSc) final year students (Thesis stream)
 
 Publications
 ======
